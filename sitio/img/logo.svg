@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="199.99998"
+   height="108.99185"
+   viewBox="0 0 52.916656 28.83743"
+   version="1.1"
+   id="svg6996"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="C:\Users\Rodrigo\Playmambo\letrero_playmambo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs6990" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="226.47098"
+     inkscape:cy="78.795956"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g359"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0" />
+  <metadata
+     id="metadata6993">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-274.9103,-306.79387)">
+    <g
+       id="g96"
+       transform="matrix(1.1582866,0,0,1.1582866,-2.0308735,-38.77149)">
+      <g
+         transform="matrix(1.0665485,0,0,1.0665485,11.865309,178.73099)"
+         style="font-style:normal;font-weight:normal;font-size:48px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="text2985">
+        <g
+           id="g378"
+           style="fill:#ffffff;fill-opacity:1">
+          <g
+             id="g1817"
+             transform="matrix(0.37227988,0,0,0.37227988,86.423705,85.766511)"
+             inkscape:export-filename="C:\Users\Rodrigo\Playmambo\letrero_playmambo_inverso.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90">
+            <g
+               style="fill:#3f51b5;fill-opacity:1"
+               id="g359"
+               transform="matrix(4.7190031,0,0,4.7190031,340.14262,-26.953553)">
+              <g
+                 style="fill:#ffffff;fill-opacity:1"
+                 transform="matrix(0.06227937,0,0,0.06227937,-2.7558623,12.423782)"
+                 id="g169">
+                <path
+                   inkscape:connector-curvature="0"
+                   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.01399708;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   d="m 77.921875,170.52148 c -9.689705,0 -17.619141,7.92945 -17.619141,17.61914 L 44.25,346.69531 95.541016,311.46094 H 122.20703 V 170.52148 Z m 53.726565,0 v 140.93946 h 87.21484 c 9.6897,0 17.61914,-7.92944 17.61914,-17.61914 0.32395,-8.50429 0.28051,-27.90014 0.1836,-50.35157 a 19.411005,19.411005 0 0 1 -11.75196,3.98047 19.411005,19.411005 0 0 1 -19.41015,-19.41015 19.411005,19.411005 0 0 1 19.41015,-19.41211 19.411005,19.411005 0 0 1 11.63086,3.90039 c -0.0302,-8.19966 -0.0625,-16.46158 -0.0625,-24.40821 0,-9.68969 -7.92944,-17.61914 -17.61914,-17.61914 z m 37.03125,21.54297 a 12.588462,12.588462 0 0 1 12.58984,12.58985 12.588462,12.588462 0 0 1 -12.58984,12.58789 12.588462,12.588462 0 0 1 -12.58789,-12.58789 12.588462,12.588462 0 0 1 12.58789,-12.58985 z"
+                   id="path5702" />
+                <path
+                   sodipodi:nodetypes="ssccscccsccssccscccccscccccc"
+                   inkscape:connector-curvature="0"
+                   style="fill:#ffffff;fill-opacity:1;stroke-width:0.3454439"
+                   d="m 261.13672,133.34375 c -9.6897,0 -17.61719,7.92749 -17.61719,17.61719 v 69.29101 l -7.87109,0.10157 c -2.43589,-2.60159 -6.38142,-5.06836 -10.22852,-5.06836 -4.59416,0 -8.64446,2.3211 -11.05273,5.84961 l 20.29883,7.61132 -20.24414,7.51758 c 2.4145,3.48318 6.43756,5.76758 10.99804,5.76758 4.01277,0 8.55294,-3.12175 11.01953,-5.92578 l 7.08008,0.0449 V 256.666 c 0,9.6897 7.92749,17.61718 17.61719,17.61718 h 89.50781 V 133.34375 Z m 98.94922,0 V 274.2832 h 24.375 L 435.75,309.51953 419.69727,150.96094 c 0,-9.6897 -7.92943,-17.61719 -17.61915,-17.61719 z m -45.14063,22.88281 c 6.95273,3.2e-4 12.58866,5.63712 12.58789,12.58985 -3.2e-4,6.95197 -5.63592,12.58757 -12.58789,12.58789 -6.95273,7.6e-4 -12.58952,-5.63516 -12.58984,-12.58789 -7.7e-4,-6.9535 5.63634,-12.59061 12.58984,-12.58985 z"
+                   id="path5702-2" />
+              </g>
+              <g
+                 style="fill:#3f51b5;fill-opacity:1"
+                 transform="translate(-44.250001,-312.66003)"
+                 id="g150" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

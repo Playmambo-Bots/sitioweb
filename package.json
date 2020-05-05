@@ -1,0 +1,16 @@
+{
+  "name": "sitioweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d sitio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":  "https://Playmambo-Bots.github.io/sitioweb",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
